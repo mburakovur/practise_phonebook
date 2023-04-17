@@ -1,0 +1,15 @@
+C:\Users\domain\Desktop\vscode\practise\telephone_book\bin\Debug\net7.0\telephone_book.exe
+C:\Users\domain\Desktop\vscode\practise\telephone_book\bin\Debug\net7.0\telephone_book.deps.json
+C:\Users\domain\Desktop\vscode\practise\telephone_book\bin\Debug\net7.0\telephone_book.runtimeconfig.json
+C:\Users\domain\Desktop\vscode\practise\telephone_book\bin\Debug\net7.0\telephone_book.dll
+C:\Users\domain\Desktop\vscode\practise\telephone_book\bin\Debug\net7.0\telephone_book.pdb
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\telephone_book.csproj.AssemblyReference.cache
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\telephone_book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\telephone_book.AssemblyInfoInputs.cache
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\telephone_book.AssemblyInfo.cs
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\telephone_book.csproj.CoreCompileInputs.cache
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\telephone_book.dll
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\refint\telephone_book.dll
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\telephone_book.pdb
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\telephone_book.genruntimeconfig.cache
+C:\Users\domain\Desktop\vscode\practise\telephone_book\obj\Debug\net7.0\ref\telephone_book.dll
